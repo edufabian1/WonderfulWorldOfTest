@@ -49,11 +49,21 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="UserRepositoryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WWOF.Application.Data\WWOF.Application.Data.csproj">
+      <Project>{3024fe9c-24fc-4dca-815a-1d891ea89be6}</Project>
+      <Name>WWOF.Application.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WWOF.Application.Models\WWOF.Application.Models.csproj">
+      <Project>{6ce98602-0811-432c-88a2-6cd1f88548ca}</Project>
+      <Name>WWOF.Application.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

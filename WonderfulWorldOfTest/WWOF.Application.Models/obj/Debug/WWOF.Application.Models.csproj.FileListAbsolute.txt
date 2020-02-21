@@ -1,0 +1,5 @@
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Models\bin\Debug\WWOF.Application.Models.dll
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Models\bin\Debug\WWOF.Application.Models.pdb
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Models\obj\Debug\WWOF.Application.Models.csprojAssemblyReference.cache
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Models\obj\Debug\WWOF.Application.Models.dll
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Models\obj\Debug\WWOF.Application.Models.pdb

@@ -1,0 +1,8 @@
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\bin\Debug\WWOF.Application.Data.dll
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\bin\Debug\WWOF.Application.Data.pdb
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\bin\Debug\WWOF.Application.Models.dll
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\bin\Debug\WWOF.Application.Models.pdb
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\obj\Debug\WWOF.Application.Data.csprojAssemblyReference.cache
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\obj\Debug\WWOF.Application.Data.csproj.CopyComplete
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\obj\Debug\WWOF.Application.Data.dll
+D:\Proyectos\WonderfulWorldOfTest\WonderfulWorldOfTest\WWOF.Application.Data\obj\Debug\WWOF.Application.Data.pdb
